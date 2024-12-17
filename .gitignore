@@ -1,0 +1,11 @@
+__pycache__
+.ipynb_checkpoints
+dag_file/spotify_etl_dag.pyZone.Identifier
+etl_scripts/__pycache__
+etl_scripts/.ipynb_checkpoints
+model_diagrams/Data_Model (1).jpgZone.Identifier
+model_diagrams/spotify_dim (1).jpgZone.Identifier
+notebooks/.ipynb_checkpoints
+__init__.py
+config.ini
+
